@@ -1,0 +1,6 @@
+## 🛠 Requirements
+- Python 3.x
+- Required Libraries:
+  - `pygame`
+  - `mutagen`
+  - `tkinter` (built-in with Python)
