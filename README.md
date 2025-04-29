@@ -24,7 +24,7 @@ A simple yet functional desktop music player built using **Python**, **Tkinter**
 ## 📂 Folder Structure
 
 project/ 
-\br\t├── songs/ 
+/t├── songs/ 
     # Directory containing your .mp3 songs
   ├── buttons/ 
     # Contains control button images (play.png, pause.png, etc.) 
