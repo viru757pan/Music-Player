@@ -21,12 +21,12 @@ A simple yet functional desktop music player built using **Python**, **Tkinter**
 ## 📂 Folder Structure
 project/  
 &nbsp; ├── songs/  
-&nbsp; &nbsp; &nbsp; Directory containing your .mp3 songs   
+&nbsp; &nbsp; &nbsp; #Directory containing your .mp3 songs   
 &nbsp; ├── buttons/  
-&nbsp; &nbsp; &nbsp; Contains control button images (play.png, pause.png, etc.)  
+&nbsp; &nbsp; &nbsp; #Contains control button images (play.png, pause.png, etc.)  
 &nbsp; ├── main.py  
-&nbsp; &nbsp; &nbsp; Main application code  
-&nbsp; ├── README.md 
+&nbsp; &nbsp; &nbsp; #Main application code  
+&nbsp; ├── README.md
 
 ## 🛠 Requirements
 
